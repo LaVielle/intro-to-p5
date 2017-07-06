@@ -7,7 +7,7 @@ First make sure that you have a code editor and modern browser installed on your
 
 Once you have that, create a folder wherever you want to store your code and start by creating a file called index.html . For this, open Atom, go to File > New File, and then save it in the folder you created.
 
-Hint: Once you have index.html is saved, you can type `html` in Atom. This is a shortcut to automatically write the basic html layout to your document.
+Hint: Once you have index.html saved, you can type `html` in Atom. This is a shortcut to automatically write the basic html layout to your document.
 You should now have something like this:
 ```html
 <!DOCTYPE html>

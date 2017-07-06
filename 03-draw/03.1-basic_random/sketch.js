@@ -19,7 +19,7 @@ function draw(){
    for (var i = 0; i < 100; i ++){
       // sets a random diameter for each ellipse
       var diameter = random(50);
-      ellipse(random(width), random(height), diameter, diameter)
+      ellipse(random(width), random(height), diameter, diameter);
    }
 
 }
